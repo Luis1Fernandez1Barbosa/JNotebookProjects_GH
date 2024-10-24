@@ -1,0 +1,50 @@
+{"Nombre":"Cynthia","Edad":32,"Sexo":"Femenino","Hobbies":["Television"],"Fecha_Nacimiento":"1990-09-24","id_estado":"25"}
+{"Nombre":"Iván","Edad":50,"Sexo":"Femenino","Hobbies":["Fotografía","Cine","Bailar"],"Fecha_Nacimiento":"1972-11-08","id_estado":"19"}
+{"Nombre":"Homero","Edad":45,"Sexo":"Masculino","Hobbies":["Fotografía","Pintura","Cine"],"Fecha_Nacimiento":"1978-02-12","id_estado":"22"}
+{"Nombre":"Gustavo","Edad":40,"Sexo":"Masculino","Hobbies":["Leer","Pintura"],"Fecha_Nacimiento":"1983-02-24","id_estado":"17"}
+{"Nombre":"Amalia","Edad":40,"Sexo":"Femenino","Hobbies":["Música","Pintura","Viajar"],"Fecha_Nacimiento":"1983-06-02"}
+{"Nombre":"Nayeli","Edad":23,"Sexo":"Femenino","Hobbies":["Viajar","Videojuegos","Television"],"Fecha_Nacimiento":"2000-03-15"}
+{"Nombre":"Jorge","Edad":21,"Sexo":"Femenino","Hobbies":["Videojuegos","Deporte"],"Fecha_Nacimiento":"2001-10-19","id_estado":"18"}
+{"Nombre":"Daniela","Edad":36,"Sexo":"Femenino","Hobbies":["Cine","Television","Viajar"],"Fecha_Nacimiento":"1987-01-01","id_estado":"8"}
+{"Nombre":"Genaro","Edad":50,"Sexo":"Masculino","Hobbies":["Pintura","Deporte"],"Fecha_Nacimiento":"1973-07-11","id_estado":"2"}
+{"Nombre":"Anabel","Edad":20,"Sexo":"Femenino","Hobbies":["Viajar","Television","Pintura"],"Fecha_Nacimiento":"2003-04-29","id_estado":"25"}
+{"Nombre":"Lilia","Edad":37,"Sexo":"Femenino","Hobbies":["Deporte"],"Fecha_Nacimiento":"1986-03-15","id_estado":"5"}
+{"Nombre":"Mauricio","Edad":46,"Sexo":"Masculino","Hobbies":["Television","Viajar"],"Fecha_Nacimiento":"1977-04-16","id_estado":"29"}
+{"Nombre":"Estefanía","Edad":51,"Sexo":"Femenino","Hobbies":["Cocinar","Bailar","Cine"],"Fecha_Nacimiento":"1971-12-23","id_estado":"22"}
+{"Nombre":"Ofelia","Edad":26,"Sexo":"Femenino","Hobbies":["Fotografía","Videojuegos"],"Fecha_Nacimiento":"1997-05-19","id_estado":"31"}
+{"Nombre":"Guadalupe","Edad":59,"Sexo":"Femenino","Hobbies":["Música","Television"],"Fecha_Nacimiento":"1964-05-19","id_estado":"14"}
+{"Nombre":"Nelly","Edad":46,"Sexo":"Femenino","Hobbies":["Cine","Videojuegos"],"Fecha_Nacimiento":"1976-10-25","id_estado":"29"}
+{"Nombre":"Esperanza","Edad":24,"Sexo":"Femenino","Hobbies":["Viajar","Leer","Pintura"],"Fecha_Nacimiento":"1999-03-30","id_estado":"10"}
+{"Nombre":"Ángela","Edad":40,"Sexo":"Femenino","Hobbies":["Cine"],"Fecha_Nacimiento":"1983-03-30","id_estado":"31"}
+{"Nombre":"María José","Edad":38,"Sexo":"Femenino","Hobbies":["Videojuegos","Fotografía","Cocinar"],"Fecha_Nacimiento":"1985-04-25","id_estado":"1"}
+{"Nombre":"Mauricio","Edad":25,"Sexo":"Masculino","Hobbies":["Deporte"],"Fecha_Nacimiento":"1998-07-25","id_estado":"30"}
+{"Nombre":"Virginia","Edad":60,"Sexo":"Femenino","Hobbies":["Pintura"],"Fecha_Nacimiento":"1963-04-23","id_estado":"31"}
+{"Nombre":"Yuridia","Edad":52,"Sexo":"Femenino","Hobbies":["Fotografía"],"Fecha_Nacimiento":"1971-05-11","id_estado":"26"}
+{"Nombre":"Arturo","Edad":26,"Sexo":"Masculino","Hobbies":["Pintura","Cine","Television"],"Fecha_Nacimiento":"1996-10-04","id_estado":"8"}
+{"Nombre":"Natalia","Edad":31,"Sexo":"Femenino","Hobbies":["Cocinar","Fotografía"],"Fecha_Nacimiento":"1991-10-17","id_estado":"7"}
+{"Nombre":"Eugenia","Edad":26,"Sexo":"Femenino","Hobbies":["Música","Pintura"],"Fecha_Nacimiento":"1997-07-08","id_estado":"2"}
+{"Nombre":"Pamela","Edad":41,"Sexo":"Femenino","Hobbies":["Bailar"],"Fecha_Nacimiento":"1982-04-23","id_estado":"27"}
+{"Nombre":"Óscar","Edad":59,"Sexo":"Femenino","Hobbies":["Deporte","Pintura"],"Fecha_Nacimiento":"1963-12-15","id_estado":"14"}
+{"Nombre":"Silvia","Edad":23,"Sexo":"Femenino","Hobbies":["Cocinar","Videojuegos"],"Fecha_Nacimiento":"2000-06-02","id_estado":"18"}
+{"Nombre":"Delia","Edad":47,"Sexo":"Femenino","Hobbies":["Cine","Viajar","Música"],"Fecha_Nacimiento":"1976-04-30","id_estado":"2"}
+{"Nombre":"Amador","Edad":46,"Sexo":"Femenino","Hobbies":["Videojuegos","Cine","Bailar"],"Fecha_Nacimiento":"1977-04-28","id_estado":"24"}
+{"Nombre":"Jonás","Edad":39,"Sexo":"Femenino","Hobbies":["Fotografía","Leer","Television"],"Fecha_Nacimiento":"1984-07-25","id_estado":"18"}
+{"Nombre":"José Eduardo","Edad":37,"Sexo":"Masculino","Hobbies":["Cocinar","Bailar"],"Fecha_Nacimiento":"1986-01-30","id_estado":"1"}
+{"Nombre":"Anel","Edad":20,"Sexo":"Femenino","Hobbies":["Cocinar","Leer","Pintura"],"Fecha_Nacimiento":"2003-09-04","id_estado":"11"}
+{"Nombre":"Federico","Edad":52,"Sexo":"Masculino","Hobbies":["Música"],"Fecha_Nacimiento":"1971-06-20","id_estado":"11"}
+{"Nombre":"Dalia","Edad":58,"Sexo":"Femenino","Hobbies":["Bailar"],"Fecha_Nacimiento":"1965-06-12","id_estado":"19"}
+{"Nombre":"José Emilio","Edad":19,"Sexo":"Masculino","Hobbies":["Cocinar","Cine"],"Fecha_Nacimiento":"2004-08-08","id_estado":"15"}
+{"Nombre":"Amanda","Edad":59,"Sexo":"Femenino","Hobbies":["Videojuegos"],"Fecha_Nacimiento":"1963-10-04","id_estado":"26"}
+{"Nombre":"Cristian","Edad":32,"Sexo":"Femenino","Hobbies":["Bailar"],"Fecha_Nacimiento":"1990-12-11","id_estado":"20"}
+{"Nombre":"Luis","Edad":20,"Sexo":"Femenino","Hobbies":["Bailar","Música"],"Fecha_Nacimiento":"2003-02-21","id_estado":"22"}
+{"Nombre":"Natividad","Edad":21,"Sexo":"Femenino","Hobbies":["Cine","Música","Viajar"],"Fecha_Nacimiento":"2002-06-12","id_estado":"6"}
+{"Nombre":"Soledad","Edad":49,"Sexo":"Femenino","Hobbies":["Viajar","Pintura","Fotografía"],"Fecha_Nacimiento":"1974-06-17","id_estado":"2"}
+{"Nombre":"Francisco","Edad":44,"Sexo":"Masculino","Hobbies":["Pintura","Cine","Música"],"Fecha_Nacimiento":"1978-11-01","id_estado":"28"}
+{"Nombre":"Lorena","Edad":28,"Sexo":"Femenino","Hobbies":["Deporte"],"Fecha_Nacimiento":"1995-09-05","id_estado":"18"}
+{"Nombre":"Beatriz","Edad":18,"Sexo":"Femenino","Hobbies":["Cocinar"],"Fecha_Nacimiento":"2004-10-12","id_estado":"17"}
+{"Nombre":"Julio","Edad":39,"Sexo":"Masculino","Hobbies":["Leer","Deporte","Bailar"],"Fecha_Nacimiento":"1984-02-06","id_estado":"12"}
+{"Nombre":"Karina","Edad":34,"Sexo":"Femenino","Hobbies":["Pintura"],"Fecha_Nacimiento":"1988-10-21","id_estado":"24"}
+{"Nombre":"Aurelio","Edad":55,"Sexo":"Masculino","Hobbies":["Television"],"Fecha_Nacimiento":"1968-05-27","id_estado":"8"}
+{"Nombre":"Ana Luisa","Edad":40,"Sexo":"Femenino","Hobbies":["Cine","Pintura"],"Fecha_Nacimiento":"1982-12-25","id_estado":"26"}
+{"Nombre":"Isabel","Edad":40,"Sexo":"Femenino","Hobbies":["Television"],"Fecha_Nacimiento":"1983-03-09","id_estado":"32"}
+{"Nombre":"Espartaco","Edad":56,"Sexo":"Masculino","Hobbies":["Viajar","Música","Television"],"Fecha_Nacimiento":"1967-05-31","id_estado":"5"}
